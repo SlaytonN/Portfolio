@@ -3,9 +3,32 @@
 }
 .skills{
   list-style-type: none;
-
+  text-align: right;
 }
 
 #me{
-  align-content: center;
+  align-content: left;
+}
+
+#proj{
+  text-align: center;
+}
+#aboutme{
+  text-align: center;
+}
+#Projects{
+column-span: all;
+}
+.this{
+  text-align: center;
+}
+.new{
+  text-align: center;
+}
+.Autoscr{
+  text-align: center;
+}
+
+#skills{
+  text-align: right;
 }
