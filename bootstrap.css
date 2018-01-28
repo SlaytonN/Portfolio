@@ -6,8 +6,9 @@
   text-align: right;
 }
 
-#me{
-  align-content: left;
+#Me{
+  align-items: left;
+  border-radius: 50%;
 }
 
 #proj{
@@ -26,9 +27,23 @@ column-span: all;
   text-align: center;
 }
 .Autoscr{
-  text-align: center;
+  text-align: left;
 }
 
 #skills{
   text-align: right;
+}
+
+#website{
+  align-items: flex-end;
+  border: solid 1px black;
+}
+#auto{
+  border: solid 1px black;
+
+}
+.contact li{
+  list-style-type: none;
+  display: inline;
+  text-align: center;
 }
