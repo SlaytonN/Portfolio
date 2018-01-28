@@ -1,0 +1,13 @@
+.head{
+  text-align: center;
+}
+.skills{
+  list-style-type: none;
+  align-content: center;
+  border: solid 5px red;
+  
+}
+
+#me{
+  align-content: center;
+}
